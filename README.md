@@ -2,7 +2,6 @@
 ## A Four-Axis Theory of Moral Judgment Through Human-AI Collaboration
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 > *"Understanding morality not as rules, but as dynamic structural interactions across four interconnected layers of reality."*
 
@@ -49,7 +48,6 @@ Unlike traditional moral philosophy, SSD treats moral judgment as **structural c
 
 ### Supporting Materials
 **[Abstracts and Summaries](papers/abstracts.md)** - Academic abstracts for all papers
-**[Methodology Notes](papers/methodology.md)** - Details on human-AI collaborative research process
 
 ## 🤖 Collaborative Methodology
 
@@ -103,18 +101,17 @@ If you use this framework in your research, please cite:
 ```bibtex
 @misc{ssd2024,
   title={Structural Subjectivity Dynamics: A Four-Axis Theory of Moral Judgment},
-  author={[Author Name] and ChatGPT-4o and Claude},
+  author={sasarube and ChatGPT-4o and Claude},
   year={2024},
-  url={https://github.com/[username]/structural-subjectivity-dynamics},
+  url={https://github.com/sasarube/structural-subjectivity-dynamics},
   note={Human-AI collaborative research}
 }
 ```
 
 ## 🔗 Related Links
 
-- **Medium Article**: [Accessible introduction for general readers](https://medium.com/@[username]/structural-subjectivity-dynamics)
-- **Academic Preprints**: [ResearchGate profile] (Coming soon)
-- **Discussion Forum**: [Issues tab for theoretical discussions](https://github.com/[username]/structural-subjectivity-dynamics/issues)
+- **Discussion Forum**: [Issues tab for theoretical discussions](https://github.com/sasarube/structural-subjectivity-dynamics/issues)
+- **Academic Preprints**: Coming soon
 
 ## 📄 License
 
@@ -136,38 +133,13 @@ We welcome contributions, discussions, and extensions of this framework:
 3. **Case Studies**: Analyze cultural phenomena through SSD lens
 4. **Technical Implementation**: Develop AI systems incorporating SSD principles
 
-Please use the [Issues](https://github.com/[username]/structural-subjectivity-dynamics/issues) tab for discussions and the [Discussions](https://github.com/[username]/structural-subjectivity-dynamics/discussions) section for broader conversations.
+Please use the [Issues](https://github.com/sasarube/structural-subjectivity-dynamics/issues) tab for discussions.
 
 ## 📧 Contact
 
-For academic collaborations, media inquiries, or theoretical discussions:
+For academic collaborations, media inquiries, or theoretical discussions, please use the GitHub Issues tab or contact through GitHub profile.
 
-- **Primary Researcher**: [Your contact information]
-- **Collaborative AI Systems**: ChatGPT-4o (OpenAI), Claude (Anthropic)
-
----
-
-## 🏗️ Repository Structure
-
-```
-structural-subjectivity-dynamics/
-├── README.md                    # This file
-├── papers/
-│   ├── 01-core-theory.md       # Main theoretical framework
-│   ├── 02-starwars-analysis.md # Cultural analysis case study  
-│   ├── 03-ssd-ai.md           # AI applications and implications
-│   ├── abstracts.md           # Academic abstracts
-│   └── methodology.md         # Research collaboration details
-├── examples/
-│   ├── money-analysis.md       # Money as structural phenomenon
-│   ├── decision-frameworks.md  # Practical decision-making tools
-│   └── cultural-applications.md # Additional case studies
-├── implementations/
-│   ├── assessment-tools/       # Structural coherence assessment
-│   ├── ai-prototypes/         # SSD-based AI implementations
-│   └── educational-materials/ # Teaching and learning resources
-└── LICENSE                    # CC BY 4.0 License
-```
+**Collaborative AI Systems**: ChatGPT-4o (OpenAI), Claude (Anthropic)
 
 ---
 
