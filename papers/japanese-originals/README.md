@@ -20,3 +20,4 @@ This theory was originally developed in Japanese. Original documents are preserv
 5. **05-energy-dynamics-jp.md** - 構造的エネルギー力学
 6. **06-resonance-responsibility-jp.md** - 構造的共鳴と責任の力学
 7. **07-emotion-dynamics-jp.md** - 構造的感情力学モデル
+8. **08-calmness-observation-jp.md** - 冷静性と構造的観測位置
