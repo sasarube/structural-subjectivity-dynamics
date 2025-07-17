@@ -6,7 +6,7 @@ This theory was originally developed in Japanese. Original documents are preserv
 
 ## 重要な概念 / Key Concepts
 
-- **「まぁこんなもんでしょ」** - 限界はある、しかし限界に挑み続けることこそ重要なのだ
+- **「まぁこんなもんでしょ」** - 限界はある、しかし限界に挑み続けることこそ重要なのだ😤
 - **「跳躍」** - 構造変化の突発性
 - **「語り」** - 現実創造的言説行為  
 - **「構造」** - 動的意味秩序
